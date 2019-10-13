@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tempCalc", "tempCalc.csproj", "{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {056ED336-6310-403A-AD04-18F38ABEDA69}
+	EndGlobalSection
+EndGlobal
