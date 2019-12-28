@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kebo\\Desktop\\Kool\\programmeerimine\\tempCalc\\tempCalc.csproj": {}
+    "C:\\Users\\Kebo\\Desktop\\Kool\\tempCalc\\tempCalc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kebo\\Desktop\\Kool\\programmeerimine\\tempCalc\\tempCalc.csproj": {
+    "C:\\Users\\Kebo\\Desktop\\Kool\\tempCalc\\tempCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kebo\\Desktop\\Kool\\programmeerimine\\tempCalc\\tempCalc.csproj",
+        "projectUniqueName": "C:\\Users\\Kebo\\Desktop\\Kool\\tempCalc\\tempCalc.csproj",
         "projectName": "tempCalc",
-        "projectPath": "C:\\Users\\Kebo\\Desktop\\Kool\\programmeerimine\\tempCalc\\tempCalc.csproj",
+        "projectPath": "C:\\Users\\Kebo\\Desktop\\Kool\\tempCalc\\tempCalc.csproj",
         "packagesPath": "C:\\Users\\Kebo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kebo\\Desktop\\Kool\\programmeerimine\\tempCalc\\obj\\",
+        "outputPath": "C:\\Users\\Kebo\\Desktop\\Kool\\tempCalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,14 +23,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -41,7 +41,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

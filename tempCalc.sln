@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29409.12
+VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tempCalc", "tempCalc.csproj", "{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tempCalc", "tempCalc.csproj", "{113CDF29-5690-4A48-BEA5-8F4755E891D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8AF4D0FB-5B24-40E7-B9D1-341BB3AE3AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113CDF29-5690-4A48-BEA5-8F4755E891D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113CDF29-5690-4A48-BEA5-8F4755E891D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113CDF29-5690-4A48-BEA5-8F4755E891D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113CDF29-5690-4A48-BEA5-8F4755E891D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {056ED336-6310-403A-AD04-18F38ABEDA69}
+		SolutionGuid = {7F2BCD4C-E0BB-40FF-8AFD-09F9B239897A}
 	EndGlobalSection
 EndGlobal

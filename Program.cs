@@ -6,7 +6,7 @@ namespace tempCalc
     {
         static void Main()
         {
-            string userChoice;           
+            string userChoice;
             bool loopCalculator = false;
 
             Console.WriteLine("Hello World!");
@@ -24,7 +24,7 @@ namespace tempCalc
                 userChoice = Console.ReadLine();
                 Console.WriteLine("\n");
 
-                switch(userChoice.ToUpper())
+                switch (userChoice.ToUpper())
                 {
                     case "FC":
                         break;
@@ -75,7 +75,7 @@ namespace tempCalc
                 else if (userChoice.ToUpper() == "N")
                 {
                     loopCalculator = true;
-                    Console.WriteLine("Goodbye!");                  
+                    Console.WriteLine("Goodbye!");
                 }
                 Console.WriteLine("\n");
             }
